@@ -21,7 +21,7 @@ public class PowersOf2
         
         //print a message saying how many powers of 2 will be printed
         System.out.println ("The first " + numPowersOf2 + " powers of 2:"); 
-        while (exponent <= numPowersOf2){
+        while (exponent < numPowersOf2){
                 //print out current power of 2
                 System.out.println("2^" + (exponent) + " = " + nextPowerOf2);
                 
