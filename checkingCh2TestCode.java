@@ -32,5 +32,5 @@ public class checkingCh2TestCode
          
          System.out.println(i++);
          System.out.print(++i);
-        }
+    }
     }
