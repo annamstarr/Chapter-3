@@ -10,6 +10,4 @@ comment4.params=
 comment4.target=void\ patternC()
 comment5.params=st\ num
 comment5.target=void\ printItem(java.lang.String,\ int)
-comment6.params=
-comment6.target=void\ patternD()
-numComments=7
+numComments=6

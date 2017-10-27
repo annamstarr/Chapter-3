@@ -9,6 +9,7 @@ public class checkingCh2TestCode
          int height;
          double area;
          int tilesneeded;
+         int i = 2;
          
          Scanner scan = new Scanner(System.in);
          
@@ -28,5 +29,8 @@ public class checkingCh2TestCode
          System.out.print("Here");
          System.out.println("There " + "Everywhere");
          System.out.println("But not" + "in Texas");
+         
+         System.out.println(i++);
+         System.out.print(++i);
         }
     }
